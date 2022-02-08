@@ -4,7 +4,8 @@
 	"description": "Awrora VueJs Starter Project",
 	"engines": {
     "node": "16.x",
-    "npm": "8.x"
+    "npm": "8.x",
+	"yarn": "1.22.x"
   },
 	"keywords": [
 		"Soporte tecnico",
@@ -23,6 +24,7 @@
 		"build": "nuxt build",
 		"start": "nuxt start",
 		"heroku-postbuild": "npm run build",
+		"nuxt-ts": "build",
 		"generate": "nuxt generate",
 		"lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
 	},
