@@ -2,14 +2,19 @@
 	"name": "stater-project",
 	"version": "1.0.0",
 	"description": "Awrora VueJs Starter Project",
+	"engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
 	"keywords": [
-		"starter kit",
-		"empty project",
+		"Soporte tecnico",
+		"Reparacion PC",
 		"starter kit",
 		"kick start",
 		"boilerplate"
 	],
-	"author": "Luxi Theme",
+	
+	"author": "Neighbordev CR",
 	"license": "Envato",
 	"main": "index.js",
 	"private": true,
