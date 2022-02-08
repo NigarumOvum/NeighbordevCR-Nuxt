@@ -1,0 +1,240 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a7f8dff8"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a7f8dff8"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_6f35defc"
+  },
+  {
+    "name": "blank-page___en",
+    "path": "/en/blank-page",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_95952eb4"
+  },
+  {
+    "name": "blog___en",
+    "path": "/en/blog",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_5a1176e3"
+  },
+  {
+    "name": "collection___en",
+    "path": "/en/collection",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6434565f"
+  },
+  {
+    "name": "contact___en",
+    "path": "/en/contact",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_099d96d5"
+  },
+  {
+    "name": "login___en",
+    "path": "/en/login",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_75ab331b"
+  },
+  {
+    "name": "register___en",
+    "path": "/en/register",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_07fd683e"
+  },
+  {
+    "name": "about___pt",
+    "path": "/pt/about",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_6f35defc"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_95952eb4"
+  },
+  {
+    "name": "blog___pt",
+    "path": "/pt/blog",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_5a1176e3"
+  },
+  {
+    "name": "collection___pt",
+    "path": "/pt/collection",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/index.vue",
+    "chunkName": "pages/collection/index",
+    "_name": "_6434565f"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_099d96d5"
+  },
+  {
+    "name": "login___pt",
+    "path": "/pt/login",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_75ab331b"
+  },
+  {
+    "name": "register___pt",
+    "path": "/pt/register",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_07fd683e"
+  },
+  {
+    "name": "about-team___en",
+    "path": "/en/about/team",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/about/team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_28a06d5d"
+  },
+  {
+    "name": "blog-detail-blog___en",
+    "path": "/en/blog/detail-blog",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blog/detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_de866622"
+  },
+  {
+    "name": "collection-detail-product___en",
+    "path": "/en/collection/detail-product",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_03f1cf94"
+  },
+  {
+    "name": "collection-products___en",
+    "path": "/en/collection/products",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_134a7de7"
+  },
+  {
+    "name": "contact-with-map___en",
+    "path": "/en/contact/with-map",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/contact/with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_201730bc"
+  },
+  {
+    "name": "utils-coming-soon___en",
+    "path": "/en/utils/coming-soon",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_3b9ba51b"
+  },
+  {
+    "name": "utils-faq___en",
+    "path": "/en/utils/faq",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_34fc402c"
+  },
+  {
+    "name": "utils-maintenance___en",
+    "path": "/en/utils/maintenance",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_72ee0567"
+  },
+  {
+    "name": "utils-pricing___en",
+    "path": "/en/utils/pricing",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_8393c2cc"
+  },
+  {
+    "name": "about-team___pt",
+    "path": "/pt/about/team",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/about/team.vue",
+    "chunkName": "pages/about/team",
+    "_name": "_28a06d5d"
+  },
+  {
+    "name": "blog-detail-blog___pt",
+    "path": "/pt/blog/detail-blog",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/blog/detail-blog.vue",
+    "chunkName": "pages/blog/detail-blog",
+    "_name": "_de866622"
+  },
+  {
+    "name": "collection-detail-product___pt",
+    "path": "/pt/collection/detail-product",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/detail-product.vue",
+    "chunkName": "pages/collection/detail-product",
+    "_name": "_03f1cf94"
+  },
+  {
+    "name": "collection-products___pt",
+    "path": "/pt/collection/products",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/collection/products.vue",
+    "chunkName": "pages/collection/products",
+    "_name": "_134a7de7"
+  },
+  {
+    "name": "contact-with-map___pt",
+    "path": "/pt/contact/with-map",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/contact/with-map.vue",
+    "chunkName": "pages/contact/with-map",
+    "_name": "_201730bc"
+  },
+  {
+    "name": "utils-coming-soon___pt",
+    "path": "/pt/utils/coming-soon",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/coming-soon.vue",
+    "chunkName": "pages/utils/coming-soon",
+    "_name": "_3b9ba51b"
+  },
+  {
+    "name": "utils-faq___pt",
+    "path": "/pt/utils/faq",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/faq.vue",
+    "chunkName": "pages/utils/faq",
+    "_name": "_34fc402c"
+  },
+  {
+    "name": "utils-maintenance___pt",
+    "path": "/pt/utils/maintenance",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/maintenance.vue",
+    "chunkName": "pages/utils/maintenance",
+    "_name": "_72ee0567"
+  },
+  {
+    "name": "utils-pricing___pt",
+    "path": "/pt/utils/pricing",
+    "component": "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/pages/utils/pricing.vue",
+    "chunkName": "pages/utils/pricing",
+    "_name": "_8393c2cc"
+  }
+]

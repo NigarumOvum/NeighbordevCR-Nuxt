@@ -1,0 +1,43 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/about/index.js": "pages/about/index.js",
+    "pages/about/team.js": "pages/about/team.js",
+    "pages/blank-page.js": "pages/blank-page.js",
+    "pages/blog/detail-blog.js": "pages/blog/detail-blog.js",
+    "pages/blog/index.js": "pages/blog/index.js",
+    "pages/collection/detail-product.js": "pages/collection/detail-product.js",
+    "pages/collection/index.js": "pages/collection/index.js",
+    "pages/collection/products.js": "pages/collection/products.js",
+    "pages/contact/index.js": "pages/contact/index.js",
+    "pages/contact/with-map.js": "pages/contact/with-map.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login.js": "pages/login.js",
+    "pages/register.js": "pages/register.js",
+    "pages/utils/coming-soon.js": "pages/utils/coming-soon.js",
+    "pages/utils/faq.js": "pages/utils/faq.js",
+    "pages/utils/maintenance.js": "pages/utils/maintenance.js",
+    "pages/utils/pricing.js": "pages/utils/pricing.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/about/index.js": "pages/about/index.js.map",
+    "pages/about/team.js": "pages/about/team.js.map",
+    "pages/blank-page.js": "pages/blank-page.js.map",
+    "pages/blog/detail-blog.js": "pages/blog/detail-blog.js.map",
+    "pages/blog/index.js": "pages/blog/index.js.map",
+    "pages/collection/detail-product.js": "pages/collection/detail-product.js.map",
+    "pages/collection/index.js": "pages/collection/index.js.map",
+    "pages/collection/products.js": "pages/collection/products.js.map",
+    "pages/contact/index.js": "pages/contact/index.js.map",
+    "pages/contact/with-map.js": "pages/contact/with-map.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/register.js": "pages/register.js.map",
+    "pages/utils/coming-soon.js": "pages/utils/coming-soon.js.map",
+    "pages/utils/faq.js": "pages/utils/faq.js.map",
+    "pages/utils/maintenance.js": "pages/utils/maintenance.js.map",
+    "pages/utils/pricing.js": "pages/utils/pricing.js.map",
+    "server.js": "server.js.map"
+  }
+}
