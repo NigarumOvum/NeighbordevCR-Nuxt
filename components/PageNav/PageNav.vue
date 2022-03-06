@@ -49,7 +49,7 @@
           </v-btn>
         </scrollactive>
       </template>
-      <span class="tooltip">To Top</span>
+      <span class="tooltip">Al Tope</span>
     </v-tooltip>  
   </div>
 </template>

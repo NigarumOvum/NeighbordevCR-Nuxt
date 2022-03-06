@@ -1,47 +1,31 @@
-# Awrora Starter - Vue JS Landing Page Template
-----------
 
-### Read documentation here
-http://ilhammeidi.github.io/awrora-docs
+## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica
 
-### Template Feature
-- Modern Technologies. Built with one of most popular javascript library Vue.JS, Vuetify and Nuxt.JS with SSR
-- Premium designs. Simple and elegant multi color scheme
-- More Variant Components. This template including 7 Header type and 4 Footer type, plus Scroll Page Navigator and Chat Panel.
-- Dark Mode. Creative and modern design along with dark mode to make it easy on your eyes.
-- RTL Support.RTL adjustment styling with rtl-sass
-- Support multilanguage. Including 6 translation English, Deutsch, Arabic, Chinese, Bahasa Indonesia, Español.
-- Interactive and Attractive show. Stunning animation, parallax, scrolling effects, until video background will make your site wilder
-- Next Generation JavaScript written in ES6
-- Responsive design Based on standard 12 Grid System
-- Support mono repo, . Modern architecture to managing modules in multiple project.
-- Clean code maintained by eslint.
-- Fully vector icons and font icons.
-- And many more…
+# About me
 
-# Get All Landing Page Collection
-![Awrora](https://ilhammeidi.github.io/awrora-docs/images/banner.jpg)
+- 🤔 I’m looking for more oportunities, projects and startups to growth my skills and achieve more and more experience in many different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
+- ⚡ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), go to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), learn new technological trends very often.
+- I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 
-[GET IT NOW on Envato](https://themeforest.net/item/awrora-vue-js-landing-page-collection/31173494)
+## 🌐Socials
 
-[SEE DEMO](http://awrora3.indisains.com/)
+- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app//">Portfolio</a>
+- Follow me: ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Brealy Padron Spotify</a>
+- :mailbox: neighbordevcr@gmail.com
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 
-### Installation
+[![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://camo.githubusercontent.com/e8b71ba160c3918ec092a329c33270870dc8d3419700160ede22d95f2f9e0fd9/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6e69676172756d6f76756d2e6e69676172756d6f76756d)
 
- - Clone this project
- - Install module dependencies by run this script in terminal
-    `npm install`
- - Finally run the app.
-	 `npm run dev`
- - Navigate to  [http://localhost:8000](http://localhost:8000)
+### ✍️Random Dev Quote
 
-### Deployment
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
- - First you need to build the production assets first
-    `npm run build`
- - Then start the app
-    `npm start`
- - Navigate to  [http://localhost:8000](http://localhost:8000)
+### 😂Random Dev Meme
 
-### License
-This project is licensed under the terms of the [MIT license](https://github.com/ilhammeidi/boss-lite/blob/master/LICENSE.txt).
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+## 💰You can help me by Donating
+
+- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/nigarumovum)
+- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr)

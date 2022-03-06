@@ -6,8 +6,8 @@
           <h4 class="use-text-subtitle mb-3">
             {{ $t('common.list_desc') }}
           </h4>
-          <p>Vestibulum faucibus eget erat eget pretium. Donec commodo convallis eget suscipit orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-          <p>Pellentesque ullamcorper aliquet ultrices. Aenean facilisis vitae purus facilisis semper. Nam vitae scelerisque lorem, quis tempus libero. Proin varius, tortor faucibus tempor pharetra, nunc mi consectetur enim, nec posuere ante magna vitae quam.</p>
+          <p>En NeighborDev CR somos expertos en Soporte Tecnico, Diseño | Desarrollo de páginas & aplicaciones web, utilizamos las mejores y actualizadas técnicas y practicas. </p>
+          <p>Velamos por la seguridad de su información y es por esto que cumplimos a cabalidad el Reglamento de la Ley de Promoción de la Competencia y Defensa Efectiva del Consumidor, mas aun para su capítulo “Protección del consumidor en el Contexto del Comercio Electrónico”, de esta forma le aseguramos que su información personal o sobre su empresa no será enviada, vendida a ninguna empresa externa con fines comerciales o publicitarios, todo esto en norma con la Ley de Protección de la Persona frente al Tratamiento de sus Datos Personales y la Ley General de Telecomunicaciones.</p>
           <div class="btn-area">
             <v-btn href="#" class="text-btn" text>
               <i class="ion-md-share" />

@@ -23,14 +23,14 @@ module.exports = {
       // PWA primary color
       { name: 'theme-color', content: theme.primary },
       // Facebook
-      { property: 'author', content: 'luxi' },
-      { property: 'og:site_name', content: 'luxi.ux-maestro.com' },
+      { property: 'author', content: 'neighbordev' },
+      { property: 'og:site_name', content: 'neighbordevcr.com' },
       { property: 'og:locale', content: 'en_US' },
       { property: 'og:type', content: 'website' },
       // Twitter
-      { property: 'twitter:site', content: 'luxi.ux-maestro.com' },
-      { property: 'twitter:domain', content: 'luxi.ux-maestro.com' },
-      { property: 'twitter:creator', content: 'luxi' },
+      { property: 'twitter:site', content: 'neighbordevcr' },
+      { property: 'twitter:domain', content: 'neighbordevcr' },
+      { property: 'twitter:creator', content: 'neighbordev' },
       { property: 'twitter:card', content: 'summary' },
       { property: 'twitter:image:src', content: '/images/logo.png' },
       { property: 'og:url', content: brand.starter.url },
@@ -126,10 +126,11 @@ module.exports = {
     '@nuxtjs/i18n',
   ],
   i18n: {
+    lazy:true,
     locales: languages,
-    defaultLocale: 'en',
+    defaultLocale: 'es',
     vueI18n: {
-      fallbackLocale: 'en',
+      fallbackLocale: 'es',
     },
     strategy: 'prefix',
     detectBrowserLanguage: {

@@ -26,7 +26,7 @@ export default {
   },
   head() {
     return {
-      title: brand.starter.name + ' - Contact'
+      title: brand.starter.name + ' - Contacto'
     }
   }
 }

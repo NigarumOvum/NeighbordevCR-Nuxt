@@ -6,9 +6,21 @@ const sample = [
     thumb: imgAPI.ui[0],
     child: [
       {
-        name: 'about',
-        link: '/about'
-      }
+        name: 'Soporte/Reparacion',
+        link: '/soporte'
+      },
+      {
+        name: 'Desarrollo Web',
+        link: '/webdev'
+      },
+            {
+        name: 'Marketing Digital',
+        link: '/marketing'
+      },
+      // {
+      //   name: 'about',
+      //   link: '/about'
+      // }
       // {
       //   name: 'team',
       //   link: '/about/team'

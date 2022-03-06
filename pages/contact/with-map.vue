@@ -26,7 +26,7 @@ export default {
   },
   head() {
     return {
-      title: brand.starter.name + ' - Contact with Map'
+      title: brand.starter.name + ' - Ubicanos en el mapa'
     }
   },
   computed: {

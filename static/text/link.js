@@ -1,10 +1,13 @@
 const link = {
   starter: {
     home: '/',
-    about: '/about',
-    team: '/about/team',
+    // about: '/about',
+    // team: '/about/team',
     // blog: '/blog',
     // blogDetail: '/blog/detail-blog',
+    soporte: '/soporte',
+    webdev: '/webdev',
+    marketing: '/marketing',
     login: '/login',
     register: '/register',
     contact: '/contact',

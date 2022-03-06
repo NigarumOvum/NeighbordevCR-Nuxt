@@ -1,7 +1,7 @@
 {
-	"name": "stater-project",
-	"version": "1.0.0",
-	"description": "Awrora VueJs Starter Project",
+	"name": "Neighbordev CR",
+	"version": "2.0.0",
+	"description": "Neighbordev CR",
 	"engines": {
     "node": "16.x",
     "npm": "8.x",
@@ -10,13 +10,11 @@
 	"keywords": [
 		"Soporte tecnico",
 		"Reparacion PC",
-		"starter kit",
-		"kick start",
-		"boilerplate"
+		"Marketing Digital",
+		"Pagina web"
 	],
 	
 	"author": "Neighbordev CR",
-	"license": "Envato",
 	"main": "index.js",
 	"private": true,
 	"scripts": {

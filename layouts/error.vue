@@ -39,8 +39,8 @@ export default {
   },
   data() {
     return {
-      pageNotFound: 'Not Found',
-      otherError: 'An error occurred'
+      pageNotFound: 'No encontrado.',
+      otherError: 'Un error ha ocurrido.'
     }
   }
 }

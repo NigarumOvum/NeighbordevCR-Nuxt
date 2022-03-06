@@ -12,8 +12,8 @@
               <v-row>
                 <v-col sm="7" lg="6" cols="12">
                   <div class="text">
-                    <h4 class="text-h4">{{ $t('starter.banner_title') }}</h4>
-                    <h5 class="text-h5">{{ $t('starter.banner_subtitle') }}</h5>
+                    <h4 class="text-h4">Bienvenidos a nuestra agencia</h4>
+                    <h5 class="text-h5">Soporte tecnico empresarial, marketing digital & desarrollo web.</h5>
                   </div>
                 </v-col>
               </v-row>
