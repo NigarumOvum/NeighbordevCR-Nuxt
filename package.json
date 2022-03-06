@@ -2,9 +2,12 @@
 	"name": "NeighbordevCR",
 	"version": "2.0.0",
 	"description": "Neighbordev CR",
+	"author": "Neighbordev CR",
+	"private": false,
 	"engines": {
     "node": "16.13",
-    "npm": "8.4",
+    "npm": "8.",
+	"yarn": "1.x"
   },
 	"keywords": [
 		"Soporte tecnico",
@@ -12,8 +15,6 @@
 		"Marketing Digital",
 		"Pagina web"
 	],
-	"author": "Neighbordev CR",
-	"private": true,
 	"scripts": {
 		"dev": "nuxt",
 		"build": "nuxt build",
