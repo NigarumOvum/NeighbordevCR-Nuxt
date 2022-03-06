@@ -5,8 +5,8 @@
 	"author": "Neighbordev CR",
 	"private": false,
 	"engines": {
-    "node": "16.13",
-    "npm": "8.",
+    "node": "16.13.x",
+    "npm": "8.4.x",
 	"yarn": "1.x"
   },
 	"keywords": [
