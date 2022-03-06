@@ -6,8 +6,7 @@
 	"private": false,
 	"engines": {
     "node": "16.13.x",
-    "npm": "8.4.x",
-	"yarn": "1.x"
+    "npm": "8.4.x"
   },
 	"keywords": [
 		"Soporte tecnico",
