@@ -3,9 +3,9 @@
 	"version": "2.0.0",
 	"description": "Neighbordev CR",
 	"engines": {
-    "node": "16.x",
-    "npm": "8.x",
-	"yarn": "1.22.x"
+    "node": "16.13",
+    "npm": "8.4",
+	"yarn": "1.22"
   },
 	"keywords": [
 		"Soporte tecnico",
@@ -13,9 +13,7 @@
 		"Marketing Digital",
 		"Pagina web"
 	],
-	
 	"author": "Neighbordev CR",
-	"main": "index.js",
 	"private": true,
 	"scripts": {
 		"dev": "nuxt",
