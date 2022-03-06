@@ -5,7 +5,6 @@
 	"engines": {
     "node": "16.13",
     "npm": "8.4",
-	"yarn": "1.22"
   },
 	"keywords": [
 		"Soporte tecnico",
