@@ -382,7 +382,7 @@
 </template>
 
 <script>
-import Waves from "~/components/waves";
+import Waves from "~/components/Waves";
 
 export default {
   name: "MarketingHome",
