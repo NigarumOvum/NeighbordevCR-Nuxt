@@ -1,13 +1,12 @@
 {
-	"name": "NeighbordevCR",
+	"name": "neighbordevcr",
 	"version": "2.0.0",
 	"description": "Neighbordev CR",
 	"author": "Neighbordev CR",
-	"private": false,
+	"private": true,
 	"engines": {
 		"node": "16.13.x",
-		"npm": "8.4.x",
-		"yarn": "1.22.15"
+		"npm": "8.4.x"
 	},
 	"keywords": [
 		"Soporte tecnico",
