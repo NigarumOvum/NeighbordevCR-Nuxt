@@ -5,9 +5,10 @@
 	"author": "Neighbordev CR",
 	"private": false,
 	"engines": {
-    "node": "16.13.x",
-    "npm": "8.4.x"
-  },
+		"node": "16.13.x",
+		"npm": "8.4.x",
+		"yarn": "1.22.15"
+	},
 	"keywords": [
 		"Soporte tecnico",
 		"Reparacion PC",
@@ -36,7 +37,6 @@
 		"@nuxtjs/html-minifier": "^0.1.2",
 		"@nuxtjs/i18n": "^7.0.2",
 		"@nuxtjs/style-resources": "^1.0.0",
-		"@nuxtjs/vuetify": "^1.12.3",
 		"animate.css": "^3.7.2",
 		"babel-plugin-transform-imports": "^2.0.0",
 		"cross-env": "^5.2.0",
@@ -66,6 +66,7 @@
 		"webpack-node-externals": "^1.7.2"
 	},
 	"devDependencies": {
+		"@nuxtjs/vuetify": "^1.12.3",
 		"babel-eslint": "^8.2.6",
 		"eslint": "^7.9.0",
 		"eslint-config-prettier": "^3.1.0",
