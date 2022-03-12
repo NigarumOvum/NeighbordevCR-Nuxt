@@ -172,6 +172,7 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
+    "@nuxtjs/pwa",
     ["@nuxtjs/html-minifier", { log: "once", logHtml: true }],
     [
       "nuxt-mq",
@@ -193,7 +194,6 @@ module.exports = {
     ],
     ["nuxt-gmaps", { key: "" }],
     "@nuxtjs/i18n",
-    '@nuxtjs/pwa',
   ],
   i18n: {
     lazy: true,
