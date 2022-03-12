@@ -114,7 +114,7 @@ __webpack_require__.r(__webpack_exports__);
         "pt": "󠁥󠁮󠁧󠁿Português",
         "id": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
         "ar": "󠁥󠁮󠁧󠁿العربيّة",
-        "notif_msg": "Este é um exemplo de mensagem comumente usada para informações importantes para visitantes ou usuários. Clique no botão ao lado para fechar esta mensagem.",
+        "notif_msg": "Bem-vindo ao NeighborDev CR ✨, obrigado pela visita. Se tiver alguma dúvida, entre em contato conosco. 😄",
         "header_language": "língua",
         "header_theme": "modo de tema",
         "header_dark": "escuro",

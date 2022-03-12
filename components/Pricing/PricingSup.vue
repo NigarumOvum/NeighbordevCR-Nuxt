@@ -45,33 +45,27 @@ export default {
     return {
       tiers: [
         {
-          title: 'Mantenimiento',
-          price: '55',
+          title: 'Revisión/Diagnóstico',
+          price: '45',
           description: [
-            'Mantenimiento',
-            'Preventivo & Correctivo',
-            'Formateo OS',
-            'Limpieza',
-            'Hardware & Software'
+            ''
           ],
           buttonText: 'Comprar',
           buttonVariant: 'outlined'
         },
         {
-          title: 'Sitio Web Básico',
-          price: '250',
+          title: 'Respaldo Información',
+          price: '50',
           description: [
-            '15 users included',
-            '10 GB of storage',
-            'Help center access'
+            ''
           ],
           buttonText: 'Comprar',
           buttonVariant: 'outlined'
         },
         {
-          title: 'Sitio Web Pro',
+          title: 'Instalación Sistema Operativo',
           subheader: 'Most popular',
-          price: '450',
+          price: '40',
           description: [
             '20 users included',
             '10 GB of storage',
@@ -82,14 +76,19 @@ export default {
           buttonVariant: 'contained'
         },
         {
-          title: 'Consultoria Marketing',
-          price: '150',
+          title: 'Mantenimiento Hardware',
+          price: '50',
           description: [
-            'Estrategias SEO/SEM',
-            'Estrategias Campañas Email',
-            'Estrategias Redes Sociales',
-            'Estrategias Branding',
-            'Estrategias Control Pauta'
+            ''
+          ],
+          buttonText: 'Comprar',
+          buttonVariant: 'outlined'
+        },
+        {
+          title: 'Mantenimiento Software',
+          price: '30',
+          description: [
+            ''
           ],
           buttonText: 'Comprar',
           buttonVariant: 'outlined'

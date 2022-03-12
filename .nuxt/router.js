@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _a7f8dff8 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _6f35defc = () => interopDefault(import('../pages/about/index.vue' /* webpackChunkName: "pages/about/index" */))
 const _95952eb4 = () => interopDefault(import('../pages/blank-page.vue' /* webpackChunkName: "pages/blank-page" */))
 const _5a1176e3 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _6434565f = () => interopDefault(import('../pages/collection/index.vue' /* webpackChunkName: "pages/collection/index" */))
 const _099d96d5 = () => interopDefault(import('../pages/contact/index.vue' /* webpackChunkName: "pages/contact/index" */))
+const _a7f8dff8 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _75ab331b = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
 const _42446edb = () => interopDefault(import('../pages/marketing/index.vue' /* webpackChunkName: "pages/marketing/index" */))
 const _07fd683e = () => interopDefault(import('../pages/register.vue' /* webpackChunkName: "pages/register" */))
@@ -40,6 +40,26 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/about",
+    component: _6f35defc,
+    name: "about"
+  }, {
+    path: "/blank-page",
+    component: _95952eb4,
+    name: "blank-page"
+  }, {
+    path: "/blog",
+    component: _5a1176e3,
+    name: "blog"
+  }, {
+    path: "/collection",
+    component: _6434565f,
+    name: "collection"
+  }, {
+    path: "/contact",
+    component: _099d96d5,
+    name: "contact"
+  }, {
     path: "/de",
     component: _a7f8dff8,
     name: "index___de"
@@ -52,13 +72,53 @@ export const routerOptions = {
     component: _a7f8dff8,
     name: "index___es"
   }, {
+    path: "/login",
+    component: _75ab331b,
+    name: "login"
+  }, {
+    path: "/marketing",
+    component: _42446edb,
+    name: "marketing"
+  }, {
     path: "/pt",
     component: _a7f8dff8,
     name: "index___pt"
   }, {
+    path: "/register",
+    component: _07fd683e,
+    name: "register"
+  }, {
+    path: "/soporte",
+    component: _02936846,
+    name: "soporte"
+  }, {
+    path: "/webdev",
+    component: _864f797c,
+    name: "webdev"
+  }, {
     path: "/zh",
     component: _a7f8dff8,
     name: "index___zh"
+  }, {
+    path: "/about/team",
+    component: _28a06d5d,
+    name: "about-team"
+  }, {
+    path: "/blog/detail-blog",
+    component: _de866622,
+    name: "blog-detail-blog"
+  }, {
+    path: "/collection/detail-product",
+    component: _03f1cf94,
+    name: "collection-detail-product"
+  }, {
+    path: "/collection/products",
+    component: _134a7de7,
+    name: "collection-products"
+  }, {
+    path: "/contact/with-map",
+    component: _201730bc,
+    name: "contact-with-map"
   }, {
     path: "/de/about",
     component: _6f35defc,
@@ -180,6 +240,10 @@ export const routerOptions = {
     component: _864f797c,
     name: "webdev___es"
   }, {
+    path: "/marketing/body",
+    component: _44ee5f28,
+    name: "marketing-body"
+  }, {
     path: "/pt/about",
     component: _6f35defc,
     name: "about___pt"
@@ -219,6 +283,30 @@ export const routerOptions = {
     path: "/pt/webdev",
     component: _864f797c,
     name: "webdev___pt"
+  }, {
+    path: "/soporte/body",
+    component: _6222c4aa,
+    name: "soporte-body"
+  }, {
+    path: "/utils/coming-soon",
+    component: _3b9ba51b,
+    name: "utils-coming-soon"
+  }, {
+    path: "/utils/faq",
+    component: _34fc402c,
+    name: "utils-faq"
+  }, {
+    path: "/utils/maintenance",
+    component: _72ee0567,
+    name: "utils-maintenance"
+  }, {
+    path: "/utils/pricing",
+    component: _8393c2cc,
+    name: "utils-pricing"
+  }, {
+    path: "/webdev/body",
+    component: _79fca465,
+    name: "webdev-body"
   }, {
     path: "/zh/about",
     component: _6f35defc,
@@ -499,6 +587,10 @@ export const routerOptions = {
     path: "/zh/webdev/body",
     component: _79fca465,
     name: "webdev-body___zh"
+  }, {
+    path: "/",
+    component: _a7f8dff8,
+    name: "index"
   }],
 
   fallback: false

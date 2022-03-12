@@ -67,7 +67,7 @@ import Pricing from '~/components/Pricing'
 // import Blog from '~/components/Blog'
 // import Subscribe from '~/components/Subscribe'
 import Footer from '~/components/Footer'
-import Corner from '~/components/Corner'
+// import Corner from '~/components/Corner'
 import Notification from '~/components/Notification'
 import brand from '~/static/text/brand'
 
@@ -82,7 +82,7 @@ export default {
     Pricing,
     // Blog,
     // Subscribe,
-    Corner,
+    // Corner,
     Notification,
     'main-footer': Footer
   },

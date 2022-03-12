@@ -36,7 +36,7 @@ const VCardTitle = Object(_util_helpers__WEBPACK_IMPORTED_MODULE_1__[/* createSi
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(364);
+var content = __webpack_require__(362);
 if(content.__esModule) content = content.default;
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
@@ -54,7 +54,7 @@ module.exports.__inject__ = function (context) {
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(366);
+var content = __webpack_require__(364);
 if(content.__esModule) content = content.default;
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
@@ -66,7 +66,7 @@ module.exports.__inject__ = function (context) {
 
 /***/ }),
 
-/***/ 363:
+/***/ 361:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -78,7 +78,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 364:
+/***/ 362:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Imports
@@ -92,7 +92,7 @@ module.exports = ___CSS_LOADER_EXPORT___;
 
 /***/ }),
 
-/***/ 365:
+/***/ 363:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -104,7 +104,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 366:
+/***/ 364:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Imports
@@ -118,7 +118,7 @@ module.exports = ___CSS_LOADER_EXPORT___;
 
 /***/ }),
 
-/***/ 368:
+/***/ 366:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -243,7 +243,7 @@ var VIcon = __webpack_require__(82);
 
 function injectStyles (context) {
   
-  var style0 = __webpack_require__(363)
+  var style0 = __webpack_require__(361)
 if (style0.__inject__) style0.__inject__(context)
 
 }
@@ -364,7 +364,7 @@ var VRow = __webpack_require__(333);
 
 function Pricing_injectStyles (context) {
   
-  var style0 = __webpack_require__(365)
+  var style0 = __webpack_require__(363)
 if (style0.__inject__) style0.__inject__(context)
 
 }
@@ -508,7 +508,7 @@ var Header = __webpack_require__(112);
 var Footer = __webpack_require__(110);
 
 // EXTERNAL MODULE: ./components/Pricing/index.js + 10 modules
-var Pricing = __webpack_require__(368);
+var Pricing = __webpack_require__(366);
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Faq/Faq.vue?vue&type=template&id=db70af50&scoped=true&
 var Faqvue_type_template_id_db70af50_scoped_true_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"root"},[_c('v-container',{staticClass:"fixed-width"},[_c('v-row',{staticClass:"spacing6"},[_c('v-col',{staticClass:"pa-6",attrs:{"md":"6"}},[_c('h4',{staticClass:"use-text-subtitle mb-3"},[_vm._v("\n          "+_vm._s(_vm.$t('common.faq_title'))+"\n        ")]),_vm._v(" "),_c('p',{staticClass:"text use-text-subtitle2",class:[_vm.isMobile ? 'text-center' : 'text-start']},[_vm._v("\n          "+_vm._s(_vm.$t('common.faq_desc'))+"\n        ")]),_vm._v(" "),_c('hidden',{attrs:{"point":"smDown"}},[_c('div',{staticClass:"illustration"},[_c('img',{attrs:{"src":"/images/backg.png","alt":"backg"}})])])],1),_vm._v(" "),_c('v-col',{staticClass:"pa-6",attrs:{"md":"6","cols":"12"}},[_c('div',{staticClass:"accordion"},[_c('v-expansion-panels',{attrs:{"active-class":"expanded"},model:{value:(_vm.panel),callback:function ($$v) {_vm.panel=$$v},expression:"panel"}},_vm._l((_vm.faqData),function(item,index){return _c('v-expansion-panel',{key:index,staticClass:"paper"},[_c('v-expansion-panel-header',{staticClass:"content"},[_c('span',{staticClass:"heading"},[_vm._v("\n                  "+_vm._s(item.q)+"\n                ")])]),_vm._v(" "),_c('v-expansion-panel-content',{staticClass:"detail"},[_c('span',[_vm._v("\n                  "+_vm._s(item.a)+"\n                ")])])],1)}),1)],1)])],1)],1)],1)}
