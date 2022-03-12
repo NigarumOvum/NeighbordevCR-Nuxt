@@ -1,8 +1,8 @@
 {
 	"name": "neighbordevcr",
 	"version": "2.0.0",
-	"description": "Neighbordev CR",
-	"author": "Neighbordev CR",
+	"description": "Neighbordev CR PWA",
+	"author": "Brealy Padron Rodriguez",
 	"private": true,
 	"main": "./server/index.js",
 	"engines": {
@@ -17,7 +17,7 @@
 	],
 	"scripts": {
 		"dev": "nuxt",
-		"build": "nuxt build",
+		"build": "nuxt build && nuxt generate",
 		"start": "nuxt start",
 		"nuxt-ts": "build",
 		"generate": "nuxt generate",
