@@ -1,8 +1,8 @@
-import FilterWarningsPlugin from 'webpack-filter-warnings-plugin'
-import nodeExternals from 'webpack-node-externals'
-import { theme } from './config/vuetify.options'
-import languages from './static/lang/languages'
-import brand from './static/text/brand'
+import FilterWarningsPlugin from "webpack-filter-warnings-plugin";
+import nodeExternals from "webpack-node-externals";
+import { theme } from "./config/vuetify.options";
+import languages from "./static/lang/languages";
+import brand from "./static/text/brand";
 
 module.exports = {
   // mode: 'universal',
@@ -167,12 +167,12 @@ module.exports = {
   /*
   ** Nuxt.js dev-modules
   */
-  buildModules: ["@nuxtjs/vuetify"],
+  buildModules: ["@nuxtjs/pwa", "@nuxtjs/vuetify"],
   /*
   ** Nuxt.js modules
   */
   modules: [
-    ["@nuxtjs/html-minifier", { log: "once", logHtml: true }],
+    ["@nuxtjs/pwa", "@nuxtjs/html-minifier", { log: "once", logHtml: true }],
     [
       "nuxt-mq",
       {
@@ -285,5 +285,16 @@ module.exports = {
   */
   server: {
     port: process.env.PORT || 8000, // default: 3000
+  },
+  pwa: {
+    meta: {
+      title: "NeighborDev CR",
+      author: "Brealy Padron",
+    },
+    manifest: {
+      name: "NeighborDev CR PWA",
+      short_name: "Nuxt.js NeighborDev CR PWA",
+      lang: "es",
+    },
   },
 };
