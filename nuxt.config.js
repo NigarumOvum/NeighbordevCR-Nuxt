@@ -284,9 +284,6 @@ module.exports = {
   /*
   ** Application Port
   */
-  server: {
-    port: process.env.PORT || 8000, // default: 3000
-  },
   pwa: {
     meta: {
       title: "NeighborDev CR",
@@ -296,6 +293,10 @@ module.exports = {
       name: "NeighborDev CR PWA",
       short_name: "Nuxt.js NeighborDev CR PWA",
       lang: "es",
+      display: "standalone",
     },
+  },
+  server: {
+    port: process.env.PORT || 8000, // default: 3000
   },
 };
