@@ -296,6 +296,34 @@ module.exports = {
       display: "standalone",
     },
   },
+  workbox: {
+    runtimeCaching: [
+      {
+        urlPattern: "https://fonts.googleapis.com/.*",
+        handler: "cacheFirst",
+        method: "GET",
+        strategyOptions: { cacheableResponse: { statuses: [0, 200] } },
+      },
+      {
+        urlPattern: "https://fonts.gstatic.com/.*",
+        handler: "cacheFirst",
+        method: "GET",
+        strategyOptions: { cacheableResponse: { statuses: [0, 200] } },
+      },
+      {
+        urlPattern: "https://cdn.snipcart.com/.*",
+        method: "GET",
+        strategyOptions: { cacheableResponse: { statuses: [0, 200] } },
+      },
+      {
+        urlPattern:
+          "https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js",
+        handler: "cacheFirst",
+        method: "GET",
+        strategyOptions: { cacheableResponse: { statuses: [0, 200] } },
+      },
+    ],
+  },
   server: {
     port: process.env.PORT || 8000, // default: 3000
   },
