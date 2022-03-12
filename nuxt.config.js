@@ -167,12 +167,11 @@ module.exports = {
   /*
   ** Nuxt.js dev-modules
   */
-  buildModules: ["@nuxtjs/vuetify"],
+  buildModules: ["@nuxtjs/pwa", "@nuxtjs/vuetify"],
   /*
   ** Nuxt.js modules
   */
   modules: [
-    "@nuxtjs/pwa",
     ["@nuxtjs/html-minifier", { log: "once", logHtml: true }],
     [
       "nuxt-mq",
