@@ -193,7 +193,7 @@ module.exports = {
     ],
     ["nuxt-gmaps", { key: "" }],
     "@nuxtjs/i18n",
-    "@nuxtjs/pwa",
+    '@nuxtjs/pwa',
   ],
   i18n: {
     lazy: true,
