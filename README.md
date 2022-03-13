@@ -1,5 +1,17 @@
+# Built with:
+![Vue](https://img.icons8.com/color/48/000000/vue-js.png)
+![jquery](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png)
+![sass](https://img.icons8.com/color/48/000000/sass.png)
+![NuxtJS](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)
+![node](https://img.icons8.com/color/48/000000/nodejs.png)
+![express](https://img.icons8.com/fluency/48/000000/node-js.png)
+![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
+![heroku](https://img.icons8.com/color/48/000000/heroku.png)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# Description:
 
-## Hi, I'm [Brealy Padron Rodriguez](https://brealy-padron-portfolio-react.vercel.app/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica
+- This PWA was built over the Frameworks: Nuxt for the Back End, Vue for the Front End. I used libraries such as nuxtjs/i18n for language switching (ES/EN/PT/DE/ZH), SASS prepocessor for stylin and responsiveness. jQuery to add functionalities to layouts, firebase as a Serverless Back End for DB data and Authenticating users. Webpack help us with the JS transpilation for browser compatbility.
+Node/Express, axios as Back End libraries
 
 # About me
 
