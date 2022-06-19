@@ -156,7 +156,7 @@ module.exports = {
     plugins: [
         "~/plugins/vue-fragment-config",
         "~/plugins/vue-wow-config",
-        "~/plugins/sw.client.js",
+        // "~/plugins/sw.client.js",
         { src: "~plugins/i18n-config.js" },
         { src: "~/plugins/vue-youtube-config", ssr: false },
         { src: "~/plugins/vue-lightbox-config", ssr: false },
