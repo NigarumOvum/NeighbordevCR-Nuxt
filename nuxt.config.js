@@ -156,13 +156,13 @@ module.exports = {
     plugins: [
         "~/plugins/vue-fragment-config",
         "~/plugins/vue-wow-config",
+        "~/plugins/sw.client.js",
         { src: "~plugins/i18n-config.js" },
         { src: "~/plugins/vue-youtube-config", ssr: false },
         { src: "~/plugins/vue-lightbox-config", ssr: false },
         { src: "~/plugins/caroussel-config", ssr: false },
         { src: "~/plugins/countup-config", ssr: false },
         { src: "~/plugins/vue-scroll-nav", ssr: false },
-        '~/plugins/sw.client.js'
     ],
     /*
      ** Nuxt.js dev-modules
