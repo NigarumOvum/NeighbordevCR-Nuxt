@@ -294,6 +294,8 @@ module.exports = {
             short_name: "Nuxt.js NeighborDev CR PWA",
             lang: "es",
             display: "standalone",
+            background_color: "#ffffff",
+            theme_color: "#ffffff",
         },
     },
     workbox: {
