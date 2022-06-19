@@ -20,7 +20,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix",
   lazy: true,
-  langDir: "/Users/nigarumovum/Downloads/Projects/neighbordevcr-nuxt/static/lang",
+  langDir: "/Users/nigarumovum/Downloads/Projects/NeighbordevCR-Nuxt/static/lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":true,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","redirectOn":"root","useCookie":true},
   differentDomains: false,
