@@ -162,11 +162,12 @@ module.exports = {
         { src: "~/plugins/caroussel-config", ssr: false },
         { src: "~/plugins/countup-config", ssr: false },
         { src: "~/plugins/vue-scroll-nav", ssr: false },
+        '~/plugins/sw.client.js'
     ],
     /*
      ** Nuxt.js dev-modules
      */
-    buildModules: ["@nuxtjs/vuetify"],
+    buildModules: ["@nuxtjs/vuetify", '@nuxtjs/pwa'],
     /*
      ** Nuxt.js modules
      */
@@ -283,6 +284,7 @@ module.exports = {
      ** Application Port
      */
     pwa: {
+        icon: false, // disables the icon module
         meta: {
             title: "NeighborDev CR",
             author: "Brealy Padron",
